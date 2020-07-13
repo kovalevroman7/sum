@@ -1,2 +1,4 @@
-const sum = (q, w) => q + w;
+const sum = (q, w) => {
+    return q + w
+};
 export { sum }
